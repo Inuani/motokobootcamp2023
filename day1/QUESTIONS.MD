@@ -1,8 +1,7 @@
 
     1.How much is the current memory capacity of a canister ?
 
-    I am not sure there is a current memory capacity for a canister.
-    maybe some limitations may appear depending on how it is coded ?
+    48 GB at the moment !
     
 
     2. What is the issue with the following code sample?

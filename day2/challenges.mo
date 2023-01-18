@@ -1,7 +1,11 @@
 import Text "mo:base/Text";
 import Iter "mo:base/Iter";
 
-actor day2 {
+actor class Day2(name : Text) {
+
+  public func getName() : async Text {
+    return name;
+  };
 
 // challenge 1
  public func average_array(array : [Int]) : async Int {
